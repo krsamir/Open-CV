@@ -12,7 +12,7 @@ imgEroded = cv2.erode(imgDialation,kernel,iterations=1)
 cv2.imshow('Gray Image', imgGray)                        #Displayng Image
 cv2.imshow('Blur Image', imgBlur)
 cv2.imshow('Edge Detection Image', imgCanny)
-cv2.imshow('Dialtion Image', imgDialation)
-cv2.imshow('Eroison Image', imgEroded)
+cv2.imshow('Dilation Image', imgDialation)
+cv2.imshow('Erosion Image', imgEroded)
 
 cv2.waitKey(0)                                   #Adding Delay
