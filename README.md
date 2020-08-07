@@ -15,3 +15,7 @@ Converting Images into
 3 .`File 3`
 * Resizing
 * Cropping 
+
+4 .`File 4`
+* Putting Shapes on images
+* Putting Text on images
