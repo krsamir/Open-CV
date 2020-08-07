@@ -9,8 +9,8 @@ Converting Images into
 * Grayscale
 * Blur
 * Edge Detection
-* Image Dialing (Thickening of Boundaries)
-* Eroison (Thinning of Boundaries)
+* Image Dilation (Thickening of Boundaries)
+* Erosion (Thinning of Boundaries)
 
 3 .`File 3`
 * Resizing
