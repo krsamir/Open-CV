@@ -19,3 +19,10 @@ Converting Images into
 4 .`File 4`
 * Putting Shapes on images
 * Putting Text on images
+
+5 .`File 5`
+* warp Perspective
+
+6 . `File 6`
+* Horizontal stacking
+* Vertical stacking
