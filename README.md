@@ -26,3 +26,6 @@ Converting Images into
 6 . `File 6`
 * Horizontal stacking
 * Vertical stacking
+
+7 . `File 7`
+* 
