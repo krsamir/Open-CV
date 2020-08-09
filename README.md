@@ -28,4 +28,5 @@ Converting Images into
 * Vertical stacking
 
 7 . `File 7`
-* 
+* Colour Detection
+* Creating Trackbars

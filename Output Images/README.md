@@ -7,3 +7,5 @@
 ![Horizontal stack](https://github.com/krsamir/Open-CV/blob/master/Output%20Images/Horizontal%20Image.jpeg)
 ## Vertical Stack
 ![Vertical stack](https://github.com/krsamir/Open-CV/blob/master/Output%20Images/Vertical%20Image.jpeg)
+## Stacks
+![Stack](https://github.com/krsamir/Open-CV/blob/master/Output%20Images/stackImage.jpg)
