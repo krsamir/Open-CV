@@ -47,5 +47,6 @@ imgStack = stackImages(0.5, ([img, imgGray, img], [img, img, img]))
 # cv2.imshow("Horizontal",imgHor)
 # cv2.imshow("Vertical",imgVer)
 cv2.imshow("ImageStack", imgStack)
+cv2.imwrite('./Output Images/stackImage.jpg',imgStack)
 
 cv2.waitKey(0)
