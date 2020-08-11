@@ -30,3 +30,6 @@ Converting Images into
 7 . `File 7`
 * Colour Detection
 * Creating Trackbars
+
+8 . `File 8`
+* shapes and Contours
