@@ -33,3 +33,6 @@ Converting Images into
 
 8 . `File 8`
 * shapes and Contours
+
+9 . `File 9`
+* Face Detection
