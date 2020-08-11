@@ -32,7 +32,7 @@ Converting Images into
 * Creating Trackbars
 
 8 . `File 8`
-* shapes and Contours
+* Shapes and Contours
 
 9 . `File 9`
 * Face Detection
